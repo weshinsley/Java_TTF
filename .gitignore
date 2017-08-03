@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+*.class
+*.pdf
+*.zip
+*.bak
+data
